@@ -1,0 +1,14 @@
+C:\Users\ameen\source\repos\abc\bin\Debug\net8.0\abc.exe
+C:\Users\ameen\source\repos\abc\bin\Debug\net8.0\abc.deps.json
+C:\Users\ameen\source\repos\abc\bin\Debug\net8.0\abc.runtimeconfig.json
+C:\Users\ameen\source\repos\abc\bin\Debug\net8.0\abc.dll
+C:\Users\ameen\source\repos\abc\bin\Debug\net8.0\abc.pdb
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\abc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\abc.AssemblyInfoInputs.cache
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\abc.AssemblyInfo.cs
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\abc.csproj.CoreCompileInputs.cache
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\abc.dll
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\refint\abc.dll
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\abc.pdb
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\abc.genruntimeconfig.cache
+C:\Users\ameen\source\repos\abc\obj\Debug\net8.0\ref\abc.dll
