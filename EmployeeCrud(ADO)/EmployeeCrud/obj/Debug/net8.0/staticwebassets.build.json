@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lxd0nGmQNlpDrvKiJeWJd5VqOj35ttou0dz3hCT4GH4=",
+  "Source": "EmployeeCrud",
+  "BasePath": "_content/EmployeeCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

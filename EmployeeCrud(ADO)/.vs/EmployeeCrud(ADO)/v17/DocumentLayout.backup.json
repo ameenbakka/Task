@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\ameen\\source\\repos\\employeecrud(ado)\\employeecrud\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\ameen\\source\\repos\\employeecrud(ado)\\employeecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\ameen\\source\\repos\\employeecrud(ado)\\employeecrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\ameen\\source\\repos\\employeecrud(ado)\\employeecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\ameen\\source\\repos\\employeecrud(ado)\\employeecrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|c:\\users\\ameen\\source\\repos\\employeecrud(ado)\\employeecrud\\employeecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15529B19-22BC-4D84-862A-4CC17045E809}|EmployeeCrud\\EmployeeCrud.csproj|solutionrelative:employeecrud\\employeecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeCrud\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:59:50.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Program.cs",
+              "RelativeToolTip": "EmployeeCrud\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:53:37.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeCrud\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T05:38:04.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeCrud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeCrud\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T05:28:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\appsettings.json",
+              "RelativeToolTip": "EmployeeCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T05:29:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeCrud.csproj",
+              "DocumentMoniker": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\EmployeeCrud.csproj",
+              "RelativeDocumentMoniker": "EmployeeCrud\\EmployeeCrud.csproj",
+              "ToolTip": "C:\\Users\\ameen\\source\\repos\\EmployeeCrud(ADO)\\EmployeeCrud\\EmployeeCrud.csproj",
+              "RelativeToolTip": "EmployeeCrud\\EmployeeCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T05:28:15.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
