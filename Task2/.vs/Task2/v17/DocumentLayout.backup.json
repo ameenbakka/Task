@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Migrations\\20250505081133_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250505081133_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\controller\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:controller\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\controller\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:controller\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\services\\shiftservice\\shiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:services\\shiftservice\\shiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\services\\shiftservice\\ishiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:services\\shiftservice\\ishiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\services\\punchservice\\punchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:services\\punchservice\\punchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\dtos\\punchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:dtos\\punchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\services\\punchservice\\ipunchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:services\\punchservice\\ipunchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\dtos\\assignshiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:dtos\\assignshiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\dtos\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:dtos\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\dtos\\dailyshiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:dtos\\dailyshiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\dtos\\shiftassignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:dtos\\shiftassignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Migrations\\20250505071921_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250505071921_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\models\\attendancepunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:models\\attendancepunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|c:\\users\\ameen\\onedrive\\desktop\\dotnet\\task2\\models\\employeeshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9204C-9B0C-4E0D-BA88-D840E86B27FC}|Task2.csproj|solutionrelative:models\\employeeshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250505081133_initial3.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Migrations\\20250505081133_initial3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250505081133_initial3.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Migrations\\20250505081133_initial3.cs",
+              "RelativeToolTip": "Migrations\\20250505081133_initial3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:11:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Controller\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controller\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Controller\\AttendanceController.cs",
+              "RelativeToolTip": "Controller\\AttendanceController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:03:23.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PunchService.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\PunchService\\PunchService.cs",
+              "RelativeDocumentMoniker": "Services\\PunchService\\PunchService.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\PunchService\\PunchService.cs",
+              "RelativeToolTip": "Services\\PunchService\\PunchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:43:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPunchService.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\PunchService\\IPunchService.cs",
+              "RelativeDocumentMoniker": "Services\\PunchService\\IPunchService.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\PunchService\\IPunchService.cs",
+              "RelativeToolTip": "Services\\PunchService\\IPunchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:42:41.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssignShiftDto.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\AssignShiftDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AssignShiftDto.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\AssignShiftDto.cs",
+              "RelativeToolTip": "DTOs\\AssignShiftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:36:14.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PunchDto.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\PunchDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PunchDto.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\PunchDto.cs",
+              "RelativeToolTip": "DTOs\\PunchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:35:53.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShiftService.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\ShiftService\\ShiftService.cs",
+              "RelativeDocumentMoniker": "Services\\ShiftService\\ShiftService.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\ShiftService\\ShiftService.cs",
+              "RelativeToolTip": "Services\\ShiftService\\ShiftService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:35:11.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShiftService.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\ShiftService\\IShiftService.cs",
+              "RelativeDocumentMoniker": "Services\\ShiftService\\IShiftService.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Services\\ShiftService\\IShiftService.cs",
+              "RelativeToolTip": "Services\\ShiftService\\IShiftService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:34:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Controller\\ShiftController.cs",
+              "RelativeDocumentMoniker": "Controller\\ShiftController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Controller\\ShiftController.cs",
+              "RelativeToolTip": "Controller\\ShiftController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:28:33.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "DTOs\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\ServiceResult.cs",
+              "RelativeToolTip": "DTOs\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:21:32.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\LocationRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\LocationRequest.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\LocationRequest.cs",
+              "RelativeToolTip": "DTOs\\LocationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:20:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DailyShiftDto.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\DailyShiftDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DailyShiftDto.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\DailyShiftDto.cs",
+              "RelativeToolTip": "DTOs\\DailyShiftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:20:30.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShiftAssignmentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\ShiftAssignmentRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\ShiftAssignmentRequest.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\DTOs\\ShiftAssignmentRequest.cs",
+              "RelativeToolTip": "DTOs\\ShiftAssignmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:20:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250505071921_first.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Migrations\\20250505071921_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250505071921_first.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Migrations\\20250505071921_first.cs",
+              "RelativeToolTip": "Migrations\\20250505071921_first.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:19:21.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task2",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Task2.csproj",
+              "RelativeDocumentMoniker": "Task2.csproj",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Task2.csproj",
+              "RelativeToolTip": "Task2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T07:16:53.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:11:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:09:38.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AttendancePunch.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\AttendancePunch.cs",
+              "RelativeDocumentMoniker": "Models\\AttendancePunch.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\AttendancePunch.cs",
+              "RelativeToolTip": "Models\\AttendancePunch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:09:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeShift.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\EmployeeShift.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeShift.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\EmployeeShift.cs",
+              "RelativeToolTip": "Models\\EmployeeShift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:08:36.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "Models\\Shift.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\Models\\Shift.cs",
+              "RelativeToolTip": "Models\\Shift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:08:13.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T07:05:51.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\AppDbContext\\appDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext\\appDbContext.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\Dotnet\\Task2\\AppDbContext\\appDbContext.cs",
+              "RelativeToolTip": "AppDbContext\\appDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:01:15.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
